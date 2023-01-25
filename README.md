@@ -1,2 +1,3 @@
 # vaadin-oauth2-sample
- Sample vaadin oauth2 project
+
+Vaadin Oauth2 Sample
